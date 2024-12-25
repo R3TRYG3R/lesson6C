@@ -1,0 +1,9 @@
+[
+  {
+    "Type": "Car",
+    "Brand": "Toyota",
+    "Model": "Prius",
+    "Year": 2007,
+    "MaxSpeed": 150
+  }
+]
